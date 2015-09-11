@@ -2,7 +2,6 @@
 # li
 
 # lisatest
-<<<<<<< HEAD
 sadfsadfasfsd
 
 afsd
@@ -11,8 +10,7 @@ asdf
 
 asdf
 asfd
-||||||| merged common ancestors
-=======
+
 a
 
 asdf
@@ -27,4 +25,3 @@ sfasd
 # fsdfadsf
 sdfasd
 fasdfasdf
->>>>>>> refs/remotes/origin/master
