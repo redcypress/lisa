@@ -1,22 +1,22 @@
 <<<<<<< HEAD
-one
-two
-three
-afsdadsfasdfafds
-# lisa4
-sdfasdfsfasdfas
-||||||| merged common ancestors
-asdfasdfasdf
-# lisa2
-# lisa3asdifdfasdfasdf
-afsdadsfasdfafds
-# lisa4
-sdfasdfsfasdfas
-=======
 asdfasdfasdf
 # lisa2
 # lisa3asdifdfasdfasdf
 four
 five
 six
->>>>>>> lisat
+||||||| merged common ancestors
+one
+two
+three
+afsdadsfasdfafds
+# lisa4
+sdfasdfsfasdfas
+=======
+one
+two
+three
+four
+five
+six
+>>>>>>> lisanew
